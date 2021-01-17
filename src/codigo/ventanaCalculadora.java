@@ -42,6 +42,7 @@ public class ventanaCalculadora extends javax.swing.JFrame {
         //pongo a 0 la pantalla
         display.setText("0");
         
+        //y se realiza la operacion
         operacion = _operacion;
     }
 
